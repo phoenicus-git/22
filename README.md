@@ -1,3 +1,3 @@
-## `22 theme for Hugo
+## '22 theme for Hugo
 
 ### COMING SOON!
